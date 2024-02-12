@@ -1,7 +1,7 @@
 Sistema de Controle de Acesso em Python utilizando SQL Server
 Este é um simples sistema de controle de acesso em Python, utilizando o banco de dados SQL Server para armazenar informações de usuários. O sistema oferece funcionalidades básicas, como cadastrar, deletar, atualizar e exibir usuários.
 
-Pré-requisitos
+Pré-requisitos:
 Certifique-se de ter o Python instalado em sua máquina. Além disso, é necessário instalar a biblioteca pyodbc, que é utilizada para a conexão com o banco de dados. Você pode instalá-la executando o seguinte comando:
 
 pip install pyodbc
